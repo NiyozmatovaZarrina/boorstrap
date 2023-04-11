@@ -1,0 +1,88 @@
+h1{
+    color: rgb(185, 185, 69);
+font-size: 45px; 
+  }  
+h3{
+    color: rgb(185, 185, 69);
+font-size: 45px; 
+text-align:   center;
+  }  
+    
+p{
+        font-size: 20px;    
+        color: rgb(66, 66, 62);
+        text-align:   center; 
+ }
+ .ab{
+    font-size: 20px;    
+    color: black;
+    text-align: justify; 
+}
+ .row1{
+    font-size: 20px;    
+    color: rgb(66, 66, 62);
+    text-align: justify; 
+}  
+ #nav,#nav li {
+    margin:0;
+    padding:0;
+    
+}
+#nav {
+    text-align:center;
+    background:#5c7460;
+   
+    
+}
+#nav li{
+    width: 150px;
+    display:inline-block;
+    text-align:center;
+}
+#nav a{
+    display: block;
+    text-decoration:none;
+    color:#fff;
+    padding:7px 15px;
+}
+
+header {
+    background: #d8790d;
+    margin: 0;
+    padding:0;    
+}
+.container1{
+ background-color: rgb(207, 207, 207); 
+}
+#na,#na li {
+    margin:0;
+    padding:0;
+    
+}
+#na {
+    text-align:justify;
+    background:#8eb695;
+   
+    
+}
+#na li{
+    width: 150px;
+    display:inline-block;
+    text-align:center;
+}
+#na a{
+    display: block;
+    text-decoration:none;
+    color:rgb(176, 231, 197);
+    padding:7px 15px;
+}
+.inline{ display: block;
+    text-decoration:none;
+    color:rgb(176, 231, 197);
+    padding:7px 15px;
+
+}
+.container{
+    
+    background-color: rgb(207, 207, 207); 
+    background-image: url(https://static.polit.info/upload/images/2023/3/27/1174214_full.jpeg); }
